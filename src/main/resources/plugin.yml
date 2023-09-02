@@ -1,0 +1,8 @@
+name: UHC
+version: '${project.version}'
+main: club.crestmc.uhc.UHC
+api-version: 1.13
+prefix: UHC
+authors: [ Blurmit ]
+description: The UHC core for CrestMC
+website: https://www.crestmc.club

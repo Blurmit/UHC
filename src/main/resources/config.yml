@@ -1,0 +1,63 @@
+Scoreboards:
+  Waiting-Title: "&b&lUHC"
+  Waiting-Entries:
+    - '&7&m-------------------------'
+    - '&bPlayers: &f1'
+    - '&bHost: &cNone'
+    - '&bType: &fFFA'
+    - '&7&m-------------------------'
+    - '&bScenarios'
+    - '{scenarios}'
+    - '&r'
+    - '&bcrestmc.club'
+    - '&7&m-------------------------'
+  Scattering-Awaiting-Title: "&b&lUHC"
+  Scattering-Awaiting-Entries:
+    - '&7&m-------------------------'
+    - '&bScattering'
+    - '&bScattered: &f0/1'
+    - '&bStarting In: &f60'
+    - '&r'
+    - '&bcrestmc.club'
+    - '&7&m-------------------------'
+  Scattering-Complete-Title: "&b&lUHC"
+  Scattering-Complete-Entries:
+    - '&7&m-------------------------'
+    - '&bStarting In: &f60'
+    - '&bRemaining: &f1/1'
+    - '&bBorder: &b500'
+    - '&bKills: &f0'
+    - '&r'
+    - '&bcrestmc.club'
+    - '&7&m-------------------------'
+  Playing-Title: "&b&lUHC"
+  Playing-Entries:
+    - '&7&m-------------------------'
+    - '&bGame Time: &f{GAME_TIME}'
+    - '&bRemaining: &f1/1'
+    - '&bBorder: &b500'
+    - '&bKills: &f0'
+    - '&r'
+    - '&bcrestmc.club'
+    - '&7&m-------------------------'
+  Host-Title: '&b&lUHC'
+  Host-Entries:
+    - '&7&m-------------------------'
+    - '&bGame Time: &f00:00'
+    - '&bRemaining: &f1/1'
+    - '&bBorder: &b500'
+    - '&7&m-------------------------'
+    - '&bTPS: &f20.0'
+    - '&bHost: &cNone'
+    - '&bSpectators: &f0'
+    - '&r'
+    - '&bcrestmc.club'
+    - '&7&m-------------------------'
+  Ending-Title: "&b&lUHC"
+  Ending-Entries:
+    - '&7&m-------------------------'
+    - '&bWinner: &cNone'
+    - '&bRestarting In: &f30'
+    - '&r'
+    - '&bcrestmc.club'
+    - '&7&m-------------------------'
